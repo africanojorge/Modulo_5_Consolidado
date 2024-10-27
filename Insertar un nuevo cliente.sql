@@ -1,0 +1,1 @@
+INSERT INTO customer (store_id, first_name, last_name, email, address_id, active, create_date) VALUES (1, 'John', 'Doe', 'johndoe@example.com', 5, 0, CURRENT_DATE);
